@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Currency_Clicker_React/static/css/main.dc112a1e.chunk.css",
+    "main.js": "/Currency_Clicker_React/static/js/main.bb01427a.chunk.js",
+    "main.js.map": "/Currency_Clicker_React/static/js/main.bb01427a.chunk.js.map",
+    "runtime-main.js": "/Currency_Clicker_React/static/js/runtime-main.e131e15a.js",
+    "runtime-main.js.map": "/Currency_Clicker_React/static/js/runtime-main.e131e15a.js.map",
+    "static/js/2.cbf3d601.chunk.js": "/Currency_Clicker_React/static/js/2.cbf3d601.chunk.js",
+    "static/js/2.cbf3d601.chunk.js.map": "/Currency_Clicker_React/static/js/2.cbf3d601.chunk.js.map",
+    "index.html": "/Currency_Clicker_React/index.html",
+    "precache-manifest.d85bb08297afea1a5646eb26c79d8c29.js": "/Currency_Clicker_React/precache-manifest.d85bb08297afea1a5646eb26c79d8c29.js",
+    "service-worker.js": "/Currency_Clicker_React/service-worker.js",
+    "static/css/main.dc112a1e.chunk.css.map": "/Currency_Clicker_React/static/css/main.dc112a1e.chunk.css.map",
+    "static/js/2.cbf3d601.chunk.js.LICENSE.txt": "/Currency_Clicker_React/static/js/2.cbf3d601.chunk.js.LICENSE.txt",
+    "static/media/dime.png": "/Currency_Clicker_React/static/media/dime.1e2a5bf0.png",
+    "static/media/nickel.png": "/Currency_Clicker_React/static/media/nickel.ea29a2a0.png",
+    "static/media/penny.png": "/Currency_Clicker_React/static/media/penny.abf66295.png",
+    "static/media/quarter.png": "/Currency_Clicker_React/static/media/quarter.f4c7696d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e131e15a.js",
+    "static/js/2.cbf3d601.chunk.js",
+    "static/css/main.dc112a1e.chunk.css",
+    "static/js/main.bb01427a.chunk.js"
+  ]
+}
